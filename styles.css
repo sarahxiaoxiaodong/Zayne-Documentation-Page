@@ -22,6 +22,12 @@ body {
   margin: 20px;
 }
 
+#gif {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+
 a {
   color: #343c4d;
 }

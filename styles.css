@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Playwrite+TZ+Guides&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header id="title">Zayne </header>
+    <nav id="navbar">
+      <a class="nav-link" href="#appearance">Appearance</a>
+      <a class="nav-link" href="#about">About</a>
+      <a class="nav-link" href="#story">Story</a>
+      <a class="nav-link" href="#myth">Myth</a>
+      <a class="nav-link" href="#bark_images">Bark images</a>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="appearance">
+        <header>Appearance</header>
+        <p>Zayne is a 6'1, 27-year-old fine man. ✨</p>
+        <p>He has black hair, hazel green eyes, and typically remains stoic 😩 in expression.</p>
+      </section>
+      <section class="main-section" id="about">
+        <header>About</header>
+        <p>Zayne spends most of his time working,</p>
+        <p>but he seems to actually enjoy his lack of free time. ❓</p>
+        <ul>
+          <li>He really dislikes carrots!</li>
+          <li>When he's down with a cold, he dodges the medicine and insists on a hot cocoa instead.</li>
+          <li>Zayne's alcohol limit: One piece of liqueur chocolate.</li>
+          <li>Though strict towards others, he easily indulges in his own cravings</li>
+          <li>He gets toothaches at times but still can't resist sweet desserts..</li>
+        </ul>
+      </section>
+      <section class="main-section" id="story">
+        <header>Story</header>
+        <p>Zayne was the quiet boy from our childhood,</p>
+        <p>but became our primary care physician more than a decade later</p>
+      </section>
+      <section class="main-section" id="myth">
+        <header>Myth</header>
+        <p>In Zayne's Myth Tower of Secrets, he is known as the Foreseer</p>
+        <p>The Foreseer meets the alternate version of the Player when she pretends to be a royal envoy, </p>
+        <p>in order to steal the Creatio Protocore from the Foreseer's scepter to keep herself from dying</p>
+        <p>Foreseer makes a deal with the alternate version of the Player: if she can make the jasmine growing on the Tower of Thorns bloom, she can leave the Tower of Thorns alive.</p>
+        <p>Zayne eventually falls in love with her during this period and imbues her with Astras power through the Creatio Protocore,</p>
+        <code>leading</code>
+        <code>to the</code>
+        <code>demise</code>
+        <code>of</code>
+        <code>himself.</code>
+        <br></br>
+      </section>
+      <section class="main-section" id="bark_images">
+        <header>Bark images</header>
+      <img src="zayne1.png" alt="zayne">
+      <img src="zayne2.png" alt="zayne">
+      </section>
+    </main>
+  </body>
+</html>
